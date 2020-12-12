@@ -2,3 +2,8 @@ Notes: notes.pdf
 Slides: slides.pdf
 Quiz: (To be updated)
 Homework: under "homework/", solutions and datasets are placed with respect to the problems
+
+Improvements:
+We introduced a network for time series forecasting, and made a stronger connection between the homework and the notes (e.g. the DTW part).
+Also, we give a more detail but easy understanding explanation about why we are using these kinds of networks as well as what we are benefiting from deep learning. 
+We fixed the typos and update some questions in the homework.
